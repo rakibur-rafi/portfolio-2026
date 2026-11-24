@@ -26,7 +26,7 @@ export const profile = {
     linkedin: "https://linkedin.com/in/rakibur-rahaman/",
   },
 
-  resume: '/resume/Rakibur-Resume.pdf',
+  resume: '/resume/Resume - Mohammad Rakibur Rahaman.pdf',
   about: {
 
     display: {
