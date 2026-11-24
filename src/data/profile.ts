@@ -26,7 +26,7 @@ export const profile = {
     linkedin: "https://linkedin.com/in/rakibur-rahaman/",
   },
 
-  resume: '/resume/B14-A8_category-Hermione.pdf',
+  resume: '/resume/Rakibur-Resume.pdf',
   about: {
 
     display: {
